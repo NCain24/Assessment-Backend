@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "goal": "Get better at cooking",
+      "reason": "I can only make ramen",
+      "how": "Take a cooking class"
+    },
+    {
+      "id": 2,
+      "goal": "Get out more",
+      "reason": "I don't know what the sun feels like",
+      "how" : "Open the door and walk out it"
+    },
+    {
+      "id": 3,
+      "goal": "Take a shower",
+      "reason": "I smell bad",
+      "how" : "Set a monthly reminder to shower"
+    }
+  ]
